@@ -1,0 +1,6 @@
+website:
+  component: "@serverless/website"
+  inputs:
+    code:
+      src: ./src
+    domain: www.messingwithserverless.com
